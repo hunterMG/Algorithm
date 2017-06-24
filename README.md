@@ -1,2 +1,2 @@
 # Algorithm
-for algorithm exercise
+for algorithm exercise.
