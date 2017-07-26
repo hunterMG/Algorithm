@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1498297669 source:e:\project\algorithm\acm.hdu.edu.cn\2005\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<cstring>
+

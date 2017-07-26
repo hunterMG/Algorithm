@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1498291982 source:e:\project\algorithm\stl\vector\main.cpp
+	<iostream>
+	<vector>
+	<cstdio>
+
