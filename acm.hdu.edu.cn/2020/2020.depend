@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1501863473 source:e:\project\algorithm\acm.hdu.edu.cn\2020\main.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+
