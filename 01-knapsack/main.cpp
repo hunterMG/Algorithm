@@ -1,4 +1,5 @@
-//http://v.youku.com/v_show/id_XMTQ3MzI0NzI2OA==.html
+// http://v.youku.com/v_show/id_XMTQ3MzI0NzI2OA==.html
+// http://karaffeltut.com/NEWKaraffeltutCom/Knapsack/knapsack.html
 #include <iostream>
 #include <cstdio>
 using namespace std;
